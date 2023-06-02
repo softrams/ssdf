@@ -5,7 +5,7 @@ includes a list of practice groups and informational examples and references in 
 
 If you are planning on using this information to integrate into your tools/systems, you may find it easier to use the JSON format of the SSDF V1.0 Practice Groups and Tasks.
 
-- Download [SSDF V1.0 Practice Groups and Tasks in JSON format](./ssdf.json)
+- Download [SSDF V1.0 Practice Groups and Tasks in JSON format](https://raw.githubusercontent.com/softrams/ssdf/main/ssdf.json)
 - Learn more about SSDF at [https://csrc.nist.gov/Projects/ssdf](https://csrc.nist.gov/Projects/ssdf).
 
 ## Let us know your thoughts and ideas
